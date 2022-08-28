@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject>
-  <Transactions>
-    <Transaction>2022/08/02 16:08:01.914,=C:\Users\Arthu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/08/02 16:27:41.218,C:\Projetos\Pong\Pong.pas=C:\Users\Arthu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/08/02 16:27:41.218,C:\Projetos\Pong\Pong.dfm=C:\Users\Arthu\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2022/08/02 16:27:48.729,C:\Projetos\Pong\Jogo_pong.dproj=C:\Users\Arthu\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-  </Transactions>
-</BorlandProject>
